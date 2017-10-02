@@ -5,3 +5,7 @@ p {
 a:hover {
   color: orange;
 }
+
+h1 {
+  font-size: 48px;
+}
